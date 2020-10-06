@@ -1,0 +1,22 @@
+Python-Installing necessary tools using pip (Windows):-
+
+#first install SpeechRecognition API
+pip install SpeechRecognition
+#secondly install win32com
+pip install win32com
+#thirdly install playsound API
+pip install playsound
+#fourthly install cv2 and webbrowser
+pip install cv2 webbrowser
+
+One line command:-
+pip install SpeechRecognition win32com playsound cv2 webbrowser
+
+Python-Installing necessary tools using pip (Linux):-
+
+#first install pip
+apt install python3-pip
+
+#And then same as windows one line command
+
+#Thank you for reading
